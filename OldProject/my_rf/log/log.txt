@@ -1,0 +1,142 @@
+[2020-01-03 21:49:03,453] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:42 , 当前方法: test_user_add_ok
+[2020-01-03 21:49:04,464] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:52 , 是测试点"UserAdd"下的用例"添加成功",返回的结果res={'msg': '连接错误。', 'code': '999'}]
+[2020-01-03 21:49:06,476] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:68 , 是测试点"UserAdd"下的用例"手机号已经存在",返回的结果res={'msg': '连接错误。', 'code': '999'}]
+[2020-01-03 21:49:08,485] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:84 , 是测试点"UserAdd"下的用例"未填写手机号",返回的结果res={'msg': '连接错误。', 'code': '999'}]
+[2020-01-03 22:06:48,785] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:42 , 当前方法: test_user_add_ok
+[2020-01-03 22:06:49,423] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:52 , 是测试点"UserAdd"下的用例"添加成功",返回的结果res={'msg': '用户已经存在', 'code': 9310}]
+[2020-01-03 22:06:50,695] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:68 , 是测试点"UserAdd"下的用例"手机号已经存在",返回的结果res={'msg': '手机号已被注册', 'code': 9360}]
+[2020-01-03 22:06:51,235] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:84 , 是测试点"UserAdd"下的用例"未填写手机号",返回的结果res={'msg': '必填参数（token，username，realname，phone，adduser）不能为空', 'code': 9500}]
+[2020-01-03 22:12:15,758] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:42 , 当前方法: test_user_add_ok
+[2020-01-03 22:12:16,409] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:49 , 是测试点"UserAdd"下的用例"添加成功",返回的结果res={'code': 9310, 'msg': '用户已经存在'}]
+[2020-01-03 22:12:17,664] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:62 , 是测试点"UserAdd"下的用例"手机号已经存在",返回的结果res={'code': 9360, 'msg': '手机号已被注册'}]
+[2020-01-03 22:12:18,128] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:75 , 是测试点"UserAdd"下的用例"未填写手机号",返回的结果res={'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}]
+[2020-01-03 22:17:50,667] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_fail:61 , 是测试点"UserLogin"下的用例"用户名或密码不正确",返回的结果res={'msg': '用户名或密码不正确', 'code': 9410}]
+[2020-01-03 22:17:50,677] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_no_phone:74 , 是测试点"UserLogin"下的用例"未填写用户名",返回的结果res={'msg': '用户名和密码不能为空', 'code': 9400}]
+[2020-01-03 22:17:50,682] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:40 , 当前方法: test_user_login_ok
+[2020-01-03 22:17:51,068] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:48 , 是测试点"UserLogin"下的用例"登录成功",返回的结果res={'token': '38a9da2c9ad98972ca5d1ec2a0909cb2', 'msg': '恭喜qzcsbj，登录成功', 'code': 9420}]
+[2020-01-03 22:18:31,749] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:42 , 当前方法: test_user_add_ok
+[2020-01-03 22:18:32,477] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:49 , 是测试点"UserAdd"下的用例"添加成功",返回的结果res={'msg': '用户已经存在', 'code': 9310}]
+[2020-01-03 22:18:35,158] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:62 , 是测试点"UserAdd"下的用例"手机号已经存在",返回的结果res={'msg': '手机号已被注册', 'code': 9360}]
+[2020-01-03 22:18:36,230] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:75 , 是测试点"UserAdd"下的用例"未填写手机号",返回的结果res={'msg': '必填参数（token，username，realname，phone，adduser）不能为空', 'code': 9500}]
+[2020-01-03 22:20:07,384] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:43 , 当前方法: test_user_add_ok
+[2020-01-03 22:20:08,069] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:50 , 是测试点"UserAdd"下的用例"添加成功",返回的结果res={'msg': '用户已经存在', 'code': 9310}]
+[2020-01-03 22:20:09,341] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:63 , 是测试点"UserAdd"下的用例"手机号已经存在",返回的结果res={'msg': '手机号已被注册', 'code': 9360}]
+[2020-01-03 22:20:09,707] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:76 , 是测试点"UserAdd"下的用例"未填写手机号",返回的结果res={'msg': '必填参数（token，username，realname，phone，adduser）不能为空', 'code': 9500}]
+[2020-01-03 22:21:27,410] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:38 , 当前方法: test_user_add_ok
+[2020-01-03 22:21:28,352] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:45 , 是测试点"UserAdd"下的用例"添加成功",返回的结果res={'code': 9310, 'msg': '用户已经存在'}]
+[2020-01-03 22:21:29,972] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:58 , 是测试点"UserAdd"下的用例"手机号已经存在",返回的结果res={'code': 9360, 'msg': '手机号已被注册'}]
+[2020-01-03 22:21:30,390] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:71 , 是测试点"UserAdd"下的用例"未填写手机号",返回的结果res={'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}]
+[2020-01-03 22:24:35,451] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_fail:55 , 是测试点"UserLogin"下的用例"用户名或密码不正确",返回的结果res={'msg': '用户名或密码不正确', 'code': 9410}]
+[2020-01-03 22:24:35,471] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_no_phone:68 , 是测试点"UserLogin"下的用例"未填写用户名",返回的结果res={'msg': '用户名和密码不能为空', 'code': 9400}]
+[2020-01-03 22:24:35,475] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-03 22:24:36,244] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:42 , 是测试点"UserLogin"下的用例"登录成功: test_user_login_ok",返回的结果res={'token': 'ca7f42a636637ff4524b65a9f0d8951e', 'msg': '恭喜qzcsbj，登录成功', 'code': 9420}]
+[2020-01-03 22:26:24,483] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:26:25,126] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点"UserAdd"下的用例"添加成功: test_user_add_ok",返回的结果res={'code': 9310, 'msg': '用户已经存在'}]
+[2020-01-03 22:26:26,993] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点"UserAdd"下的用例"手机号已经存在: test_user_add_exist",返回的结果res={'code': 9360, 'msg': '手机号已被注册'}]
+[2020-01-03 22:26:27,612] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点"UserAdd"下的用例"未填写手机号: test_user_add_no_phone",返回的结果res={'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}]
+[2020-01-03 22:28:48,880] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:28:49,694] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-03 22:28:50,948] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-03 22:28:51,358] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-03 22:29:45,841] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'code': 9410, 'msg': '用户名或密码不正确'}】
+[2020-01-03 22:29:45,865] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'code': 9400, 'msg': '用户名和密码不能为空'}】
+[2020-01-03 22:29:45,870] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-03 22:29:46,281] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'code': 9420, 'msg': '恭喜qzcsbj，登录成功', 'token': '690b5d572bc560f24d7d46b51c5302ef'}】
+[2020-01-03 22:30:09,058] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-03 22:30:09,490] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'msg': '恭喜qzcsbj，登录成功', 'token': '3ce684396fb0d3f37e93c9e9546964b9', 'code': 9420}】
+[2020-01-03 22:30:09,791] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'msg': '用户名或密码不正确', 'code': 9410}】
+[2020-01-03 22:30:09,804] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'msg': '用户名和密码不能为空', 'code': 9400}】
+[2020-01-03 22:31:45,179] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'msg': '手机号已被注册', 'code': 9360}】
+[2020-01-03 22:31:45,587] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'msg': '必填参数（token，username，realname，phone，adduser）不能为空', 'code': 9500}】
+[2020-01-03 22:31:46,051] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:31:46,692] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'msg': '用户已经存在', 'code': 9310}】
+[2020-01-03 22:31:47,009] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'msg': '用户名或密码不正确', 'code': 9410}】
+[2020-01-03 22:31:47,032] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'msg': '用户名和密码不能为空', 'code': 9400}】
+[2020-01-03 22:31:47,037] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-03 22:31:47,535] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'msg': '恭喜qzcsbj，登录成功', 'token': '95e98902d2bd8fe094377f8a2d95834c', 'code': 9420}】
+[2020-01-03 22:38:38,656] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-03 22:38:39,088] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'msg': '恭喜qzcsbj，登录成功', 'token': '7466f6e94d0353dfff4d1b192d6310c1', 'code': 9420}】
+[2020-01-03 22:38:39,341] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'msg': '用户名或密码不正确', 'code': 9410}】
+[2020-01-03 22:38:39,355] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'msg': '用户名和密码不能为空', 'code': 9400}】
+[2020-01-03 22:40:21,193] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:40:21,786] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-03 22:40:23,015] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-03 22:40:23,404] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-03 22:41:40,822] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'msg': '手机号已被注册', 'code': 9360}】
+[2020-01-03 22:41:41,378] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'msg': '必填参数（token，username，realname，phone，adduser）不能为空', 'code': 9500}】
+[2020-01-03 22:41:42,446] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:41:43,189] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'msg': '用户已经存在', 'code': 9310}】
+[2020-01-03 22:41:43,543] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'msg': '用户名或密码不正确', 'code': 9410}】
+[2020-01-03 22:41:43,588] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'msg': '用户名和密码不能为空', 'code': 9400}】
+[2020-01-03 22:41:43,592] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-03 22:41:44,100] [DEBUG] [E:\qzcsbj\my_rf\test_case\test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'token': 'e398751ace82cafb80d036e3b70085dc', 'msg': '恭喜qzcsbj，登录成功', 'code': 9420}】
+[2020-01-03 22:41:46,522] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:41:47,385] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-03 22:41:48,994] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-03 22:41:49,442] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-03 22:42:10,005] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:42:10,865] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-03 22:42:12,352] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-03 22:42:12,806] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-03 22:42:50,439] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-03 22:42:50,923] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'token': '8c980678f17a577f5eb057d3c22fc7f9', 'code': 9420, 'msg': '恭喜qzcsbj，登录成功'}】
+[2020-01-03 22:42:51,201] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'code': 9410, 'msg': '用户名或密码不正确'}】
+[2020-01-03 22:42:51,222] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'code': 9400, 'msg': '用户名和密码不能为空'}】
+[2020-01-03 22:43:59,650] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:44:00,328] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'msg': '用户已经存在', 'code': 9310}】
+[2020-01-03 22:44:01,707] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'msg': '手机号已被注册', 'code': 9360}】
+[2020-01-03 22:44:02,237] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'msg': '必填参数（token，username，realname，phone，adduser）不能为空', 'code': 9500}】
+[2020-01-03 22:44:53,374] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-03 22:44:54,065] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-03 22:44:55,610] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-03 22:44:56,015] [DEBUG] [E:/qzcsbj/my_rf/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-10 14:48:33,278] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-10 14:48:33,700] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-10 14:48:34,144] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-10 14:48:34,831] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-10 14:48:35,117] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'code': 9410, 'msg': '用户名或密码不正确'}】
+[2020-01-10 14:48:35,129] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'code': 9400, 'msg': '用户名和密码不能为空'}】
+[2020-01-10 14:48:35,133] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-10 14:48:35,541] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'code': 9420, 'msg': '恭喜qzcsbj，登录成功', 'token': '4e76159b10e678f276af995e4fc66888'}】
+[2020-01-10 14:49:50,722] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-10 14:49:51,149] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-10 14:49:51,604] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-10 14:49:52,278] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-10 14:49:52,547] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'code': 9410, 'msg': '用户名或密码不正确'}】
+[2020-01-10 14:49:52,568] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'code': 9400, 'msg': '用户名和密码不能为空'}】
+[2020-01-10 14:49:52,572] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-10 14:49:52,974] [DEBUG] [E:\my_rf_no_open\test_case\test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'code': 9420, 'msg': '恭喜qzcsbj，登录成功', 'token': 'f661a701e74ac0a033f342fafbedab5d'}】
+[2020-01-10 14:58:41,904] [DEBUG] [E:/my_rf_no_open/test_case/test_用户_添加.py : test_user_add_ok:37 , 当前方法: test_user_add_ok
+[2020-01-10 14:58:42,592] [DEBUG] [E:/my_rf_no_open/test_case/test_用户_添加.py : test_user_add_ok:44 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-10 14:58:43,930] [DEBUG] [E:/my_rf_no_open/test_case/test_用户_添加.py : test_user_add_exist:57 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-10 14:58:44,348] [DEBUG] [E:/my_rf_no_open/test_case/test_用户_添加.py : test_user_add_no_phone:70 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-20 15:34:24,840] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_exist:58 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-20 15:34:25,587] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_no_phone:71 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-20 15:34:26,034] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_ok:38 , 当前方法: test_user_add_ok
+[2020-01-20 15:34:27,528] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_ok:45 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9550, 'msg': '添加用户成功', 'username': 'test133'}】
+[2020-01-20 15:34:27,846] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'code': 9410, 'msg': '用户名或密码不正确'}】
+[2020-01-20 15:34:27,857] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'code': 9400, 'msg': '用户名和密码不能为空'}】
+[2020-01-20 15:34:27,861] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-20 15:34:28,451] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'code': 9420, 'msg': '恭喜qzcsbj，登录成功', 'token': 'fd45848020cab3cdb6d2672c71a6f034'}】
+[2020-01-20 15:35:04,567] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_exist:58 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-20 15:35:05,028] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_no_phone:71 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-20 15:35:05,578] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_ok:38 , 当前方法: test_user_add_ok
+[2020-01-20 15:35:06,491] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_ok:45 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9310, 'msg': '用户已经存在'}】
+[2020-01-20 15:35:06,855] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'code': 9410, 'msg': '用户名或密码不正确'}】
+[2020-01-20 15:35:06,866] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'code': 9400, 'msg': '用户名和密码不能为空'}】
+[2020-01-20 15:35:06,870] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-20 15:35:07,388] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'code': 9420, 'msg': '恭喜qzcsbj，登录成功', 'token': 'eac503b33add41ff5832a017eb06b098'}】
+[2020-01-20 15:36:08,293] [DEBUG] [E:/my_rf/test_case/test_用户_删除.py : test_user_del_ok:38 , 当前方法: test_user_del_ok
+[2020-01-20 15:36:09,699] [DEBUG] [E:/my_rf/test_case/test_用户_删除.py : test_user_del_ok:51 , 是测试点【UserDel】下的用例【删除成功: test_user_del_ok】,返回的结果【{'code': 9600, 'msg': '删除成功'}】
+[2020-01-20 15:36:11,192] [DEBUG] [E:/my_rf/test_case/test_用户_删除.py : test_user_del_not_exist:63 , 是测试点【UserDel】下的用例【用户不存在: test_user_del_not_exist】,返回的结果【{'code': 9601, 'msg': '用户不存在'}】
+[2020-01-20 15:36:18,795] [DEBUG] [E:\my_rf\test_case\test_用户_删除.py : test_user_del_not_exist:63 , 是测试点【UserDel】下的用例【用户不存在: test_user_del_not_exist】,返回的结果【{'code': 9601, 'msg': '用户不存在'}】
+[2020-01-20 15:36:19,384] [DEBUG] [E:\my_rf\test_case\test_用户_删除.py : test_user_del_ok:38 , 当前方法: test_user_del_ok
+[2020-01-20 15:36:20,320] [DEBUG] [E:\my_rf\test_case\test_用户_删除.py : test_user_del_ok:51 , 是测试点【UserDel】下的用例【删除成功: test_user_del_ok】,返回的结果【{'code': 9601, 'msg': '用户不存在'}】
+[2020-01-20 15:36:21,900] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_exist:58 , 是测试点【UserAdd】下的用例【手机号已经存在: test_user_add_exist】,返回的结果【{'code': 9360, 'msg': '手机号已被注册'}】
+[2020-01-20 15:36:22,386] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_no_phone:71 , 是测试点【UserAdd】下的用例【未填写手机号: test_user_add_no_phone】,返回的结果【{'code': 9500, 'msg': '必填参数（token，username，realname，phone，adduser）不能为空'}】
+[2020-01-20 15:36:23,041] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_ok:38 , 当前方法: test_user_add_ok
+[2020-01-20 15:36:24,770] [DEBUG] [E:\my_rf\test_case\test_用户_添加.py : test_user_add_ok:45 , 是测试点【UserAdd】下的用例【添加成功: test_user_add_ok】,返回的结果【{'code': 9550, 'msg': '添加用户成功', 'username': 'test133'}】
+[2020-01-20 15:36:25,119] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_fail:55 , 是测试点【UserLogin】下的用例【用户名或密码不正确: test_user_login_fail】,返回的结果【{'code': 9410, 'msg': '用户名或密码不正确'}】
+[2020-01-20 15:36:25,140] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_no_phone:68 , 是测试点【UserLogin】下的用例【未填写用户名: test_user_login_no_phone】,返回的结果【{'code': 9400, 'msg': '用户名和密码不能为空'}】
+[2020-01-20 15:36:25,144] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_ok:34 , 当前方法: test_user_login_ok
+[2020-01-20 15:36:25,581] [DEBUG] [E:\my_rf\test_case\test_用户_登录.py : test_user_login_ok:42 , 是测试点【UserLogin】下的用例【登录成功: test_user_login_ok】,返回的结果【{'code': 9420, 'msg': '恭喜qzcsbj，登录成功', 'token': '13d8f0bddadbab477950b36bd11e925e'}】
