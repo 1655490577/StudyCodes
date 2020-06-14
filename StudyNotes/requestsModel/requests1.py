@@ -8,3 +8,4 @@ req = requests.get('http://www.baidu.com')
 # print(req.cookies)  # 用户cookie信息
 # print(req.headers)  # 响应的响应头信息
 # print(req.url)  # 响应的url信息
+
