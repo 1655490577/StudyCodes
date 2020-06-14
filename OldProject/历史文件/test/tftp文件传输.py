@@ -1,6 +1,7 @@
 # coding=utf-8
 
 # 导包
+import os
 import sys
 import struct
 from socket import *

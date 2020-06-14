@@ -3,6 +3,7 @@ from multiprocessing import Process
 from threading import Thread
 import os
 
+
 class myProcess(Process):
     def __init__(self, cSocket, cServerInfo):
         super().__init__()
@@ -18,7 +19,7 @@ class myProcess(Process):
     def recv(self):
         while True:
             recvData = self.cSocket.recv(1024)
-            if len(recvData)>0:
+            if len(recvData) > 0:
                 recvData = recvData.decode('gb2312')
                 print(f'Recived from{self.cServerInfo}:{recvData}')
             else:
@@ -27,6 +28,7 @@ class myProcess(Process):
         self.cSocket.close()
         # p1.close()
 
+    @staticmethod
     def send(self):
         while True:
             # print('<<<<<<')
@@ -39,6 +41,7 @@ class myProcess(Process):
                 sSocket.send(send_data.encode('gb2312'))
             else:
                 continue
+
 
 if __name__ == '__main__':
     sSocket = socket(AF_INET, SOCK_STREAM)
